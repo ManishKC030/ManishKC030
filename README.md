@@ -6,7 +6,8 @@
 ###
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=manishkc030030&theme=dark" alt="GitHub Streak Stats">
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc030&" alt="manishkc030" /></p> 
+
 </div>
 
 ###
