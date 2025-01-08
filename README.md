@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc030&" alt="manishkc030" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc030&theme=dark" alt="manishkc030" />
 </div>
 
 ###
