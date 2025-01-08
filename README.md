@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Manishkc030" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc030&" alt="manishkc030" /></p> 
 </div>
 
 ###
