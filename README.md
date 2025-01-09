@@ -6,8 +6,7 @@
 ###
 
 <div align="center">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkc030&" alt="manishkc030" /></p> 
-
+  <img src="https://streak-stats.demolab.com?user=manishkc030&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
