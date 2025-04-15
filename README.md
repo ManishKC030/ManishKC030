@@ -12,8 +12,8 @@
    
 ## 💬 Quote :
 
-> “It’s only after we’ve lost everything that we’re free to do anything.”  
-> – *F***** *C****
+> “I'm a creep, I'm a weirdo. What the hell am I doing here? I don't belong here.”  
+> – *Radiohead*
 
 
 ###
