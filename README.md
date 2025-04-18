@@ -12,8 +12,8 @@
    
 ## 💬 Quote :
 
-> “I'm a creep, I'm a weirdo. What the hell am I doing here? I don't belong here.”  
-> – *Radiohead*
+> "In case I don’t see ya, good afternoon, good evening, and good night!"  
+> – *The Truman Show*
 
 
 ###
