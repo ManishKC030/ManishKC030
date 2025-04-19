@@ -12,8 +12,8 @@
    
 ## 💬 Quote :
 
-> "In case I don’t see ya, good afternoon, good evening, and good night!"  
-> – *The Truman Show*
+> "You make your life hard just to make it better when it’s easy."  
+> – *A Beautiful Boy*
 
 
 ###
