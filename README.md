@@ -12,8 +12,8 @@
    
 ## 💬 Quote :
 
-> "You make your life hard just to make it better when it’s easy."  
-> – *A Beautiful Boy*
+> "Dreams feel real while we're in them. It’s only when we wake up that we realize something was actually strange."  
+> – *Inception*
 
 
 ###
