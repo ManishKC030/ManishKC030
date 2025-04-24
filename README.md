@@ -12,8 +12,8 @@
    
 ## 💬 Quote :
 
-> "Dreams feel real while we're in them. It’s only when we wake up that we realize something was actually strange."  
-> – *Inception*
+> "Hope is a good thing, maybe the best of things. And no good thing ever dies."  
+> – *The Shawshank Redemption*
 
 
 ###
