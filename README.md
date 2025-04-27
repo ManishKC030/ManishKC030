@@ -12,7 +12,7 @@
    
 ## 💬 Quote :
 
-> "Hope is a good thing, maybe the best of things. And no good thing ever dies."  
+> "The saddest thing in life is wasted talent." 
 > – *The Shawshank Redemption*
 
 
