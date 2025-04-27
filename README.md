@@ -13,7 +13,7 @@
 ## 💬 Quote :
 
 > "The saddest thing in life is wasted talent." 
-> – *The Shawshank Redemption*
+> – *A Bronx Tale*
 
 
 ###
