@@ -14,8 +14,5 @@
 
 > "The saddest thing in life is wasted talent."   
 > – *A Bronx Tale*
-> hello
-> world
-
 
 ###
