@@ -4,8 +4,7 @@
 
 ## 💬 Quote :
 
-> "The saddest thing in life is wasted talent."
-   
-> – *A Bronx Tale*
+> "What is this Earth without art?"  
+> – *Its Just a Rock*
 
 ###
