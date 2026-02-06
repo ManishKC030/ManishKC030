@@ -7,7 +7,7 @@
 
 ###
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Manishkc030&theme=dark&card_height=200" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Manishkc030 & theme=dark & card_height=200" alt="GitHub Streak" />
 </div>
 
 ###
