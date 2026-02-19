@@ -12,6 +12,6 @@
 <div align = left>
 <h3> 💬 Quote :<h3>
   
-> "What is this Earth without art?"  
-> – *Its Just a Rock*
+> “I’m worse at what I do best.”  
+> – *Nirvana*
 </div>
