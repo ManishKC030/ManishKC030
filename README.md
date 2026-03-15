@@ -8,8 +8,8 @@
 <div align = left>
 <h3> 💬 Quote :<h3>
   
-> “I’m worse at what I do best.”  
-> – *Nirvana*
+> “To live is the rarest thing in the world. Most people exist, that is all.”  
+> – *Oscar Wilde*
 </div>
 
 <br>
