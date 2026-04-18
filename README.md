@@ -8,16 +8,16 @@
 <div align = left>
 <h3> 💬 Quote :<h3>
   
-> “To live is the rarest thing in the world. Most people exist, that is all.”  
-> – *Oscar Wilde*
+> “Dreams feel real while we’re in them.”  
+> – *Inception*
 </div>
 
 <br>
 
-<!--- <div align="left">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=manishkc030&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>  
---->
+
 
 
 ###
