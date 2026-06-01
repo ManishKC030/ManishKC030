@@ -8,8 +8,7 @@
 <div align = left>
 <h3> 💬 Quote :<h3>
   
-> “The world is full of lonely people afraid to make the first move —      
-> and among them, I stand too.”  
+> “The world is full of lonely people afraid to make the first move—and among them, I stand too.”  
 
 </div>
 
